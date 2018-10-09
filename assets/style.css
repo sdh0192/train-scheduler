@@ -1,0 +1,36 @@
+.panel {
+    margin-top: 40px;
+}
+
+.panel-heading {
+    height: 50px;
+    background-color: royalblue;
+}
+
+span {
+    font-size: 30px;
+}
+
+table {
+    margin-top: 0;
+}
+
+#main-container {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 200px;
+    background-color: white; 
+    border: 3px solid grey;
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+form {
+    margin: 10px;
+}
+
+.new-train-input {
+    width: 100%;
+}
